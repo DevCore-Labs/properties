@@ -1,0 +1,9 @@
+# config.yml
+app:
+  name: "ProyectoDesarrollo"
+  version: "1.0.0"
+  
+api:
+  base_url: "https://api.ejemplo.com"
+  timeout: 30s
+  retry_attempts: 3
